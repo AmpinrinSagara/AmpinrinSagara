@@ -1,16 +1,21 @@
 ## Hi there 👋
 
 <!--
-**AmpinrinSagara/AmpinrinSagara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bienvenue sur mon premier dépôt 🎉
 
-Here are some ideas to get you started:
+👋 Je m'appelle Ampinrin, étudiant en Génie Logiciel à la FST, Bamako (Mali).  
+Ce dépôt est un espace de découverte, où je partage mes premiers pas sur GitHub.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌱 À propos de moi
+- 🎓 Étudiant passionné par le développement logiciel et l’innovation.  
+- 📚 Toujours curieux d’apprendre et d’explorer de nouvelles idées.  
+- 🌍 Ouvert à l’Afrique et au monde, avec l’envie de progresser et de partager.  
+
+## 🚀 Objectif de ce dépôt
+Ce dépôt est pour moi un point de départ : tester, apprendre et construire pas à pas.  
+Chaque projet ici reflète ma volonté d’excellence et mon parcours en génie logiciel.  
+
+## ✨ Merci
+Merci d’avoir pris le temps de visiter ce dépôt.  
+N’hésitez pas à suivre mon évolution et mes futurs projets 💡🤝.
 -->
